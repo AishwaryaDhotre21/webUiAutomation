@@ -1,0 +1,2 @@
+2024-06-02 11:21:56,122 INFO com.qa.store.logger.Log [TestNG-tests-1] Browser name is : firefox
+2024-06-02 11:22:12,312 INFO com.qa.store.logger.Log [TestNG-tests-1] Login page title : Account Login
